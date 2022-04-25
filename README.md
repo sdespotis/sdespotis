@@ -36,7 +36,7 @@ Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusia
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 
 **Studies**
-- Msc in BA @ AUEB
+- Master of Science in BA @ AUEB
 - Bachelor in Economic Sciences  @ UOA
 - 
 **Languages and Tools:**
