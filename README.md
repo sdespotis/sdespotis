@@ -20,7 +20,7 @@
 
 <br />
 
-Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" height="350"  width="500" src="https://i.pinimg.com/originals/dd/d0/77/ddd077cceb1dc551cce4b5dd51b1aa85.gif" />
