@@ -23,36 +23,27 @@
 Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" height="350"  width="500" src="https://i.pinimg.com/originals/dd/d0/77/ddd077cceb1dc551cce4b5dd51b1aa85.gif" />
+<img align="right" alt="GIF" height="350"  width="500" src="https://media-exp1.licdn.com/dms/image/C4E12AQEAduynIY6wYw/article-cover_image-shrink_600_2000/0/1649495306034?e=2147483647&v=beta&t=9HGhTliowrHIDQvPp-mi-WRC9Q8Fk_OeLv5MCdTXhCM" />
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently at Skroutz.
+- 🔭 I’m currently at Skroutz SA.
 - 🌱 I’m currently learning Machine Learning.
-- 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent 
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
-
-
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
-
+**Studies**
+- Msc in BA @ AUEB
+- Bachelor in Economic Sciences  @ UOA
+- 
 **Languages and Tools:**
-
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sdespotis&show_icons=true&hide_border=true)
