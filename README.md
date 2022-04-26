@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Spyros!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Spyros!]()
 
 <br/>
 
