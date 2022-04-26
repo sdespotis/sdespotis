@@ -32,7 +32,7 @@ Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusia
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent 
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
+- 📝[Data-analyst.gr](Soon new portfolio link)
 
 **Studies**
 - Master of Science in BA @ AUEB
