@@ -31,7 +31,7 @@ Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusia
 - 🌱 I’m currently learning Machine Learning.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent 
+- ⚡ Check out my recent work "Master Files"
 - 📝[Data-analyst.gr](Soon new portfolio link)
 
 **Studies**
