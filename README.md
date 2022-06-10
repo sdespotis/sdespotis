@@ -35,7 +35,7 @@ Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusia
 - 📝[Data-analyst.gr](Soon new portfolio link)
 
 **Studies**
-- Master of Science in Business Analytics @ AUEB
+- Master of Science in BA
 - Bachelor in Economic Sciences  @ UOA
 
 **Languages and Tools:**
