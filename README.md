@@ -22,7 +22,7 @@
 Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" height="450"  width="700" src="[https://i.pinimg.com/originals/37/9e/be/379ebe8f2a043833bededd41d4987cbd.gif](https://i.ibb.co/Wf200vP/faceman.gif)" />
+<img align="right" alt="GIF" height="450"  width="700" src="https://i.ibb.co/Wf200vP/faceman.gif" />
 
 
 **Talking about Personal Stuffs:**
