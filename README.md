@@ -22,7 +22,7 @@
 Hi,I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" height="480"  width="600" src="https://inspgr.id/app/uploads/2018/01/motion-nikolay-ivanov-02.gif" />
+<img align="right" alt="GIF" height="480"  width="500" src="https://inspgr.id/app/uploads/2018/01/motion-nikolay-ivanov-02.gif" />
 
 
 **Talking about Personal Stuffs:**
