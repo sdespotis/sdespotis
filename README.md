@@ -28,7 +28,7 @@ Hi, I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusi
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently at Skroutz SA.
-- 🌱 I’m currently learning Digital Marketing Analytics.
+- 🌱 I’m currently learning Machine Learning tools.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
