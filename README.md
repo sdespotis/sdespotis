@@ -21,7 +21,8 @@
 
 Hi, I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
-- ⚡⚡ Check out my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
+- 🔥🔥 Check out my Machine Learning Work [Master-Projects](https://github.com/sdespotis/fashion_product_recommendation_engine)
+- ⚡⚡ Check out all my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
 
 
 <img align="right" alt="GIF" height="380"  width="500" src="https://inspgr.id/app/uploads/2018/01/motion-nikolay-ivanov-02.gif" />
