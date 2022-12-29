@@ -21,7 +21,7 @@
 
 Hi, I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
 
-- 🔥🔥 Check out my Machine Learning Work [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
+- 🔥🔥 Check out my Machine Learning work [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
 - ⚡⚡ Check out all my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
 
 
