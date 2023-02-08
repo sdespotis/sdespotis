@@ -23,7 +23,7 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 - 🔥🔥 Check out my latest project [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
 
 
-<img align="right" alt="GIF" height="380"  width="500" src="https://inspgr.id/app/uploads/2018/01/motion-nikolay-ivanov-02.gif" />
+<img align="right" alt="GIF" height="380"  width="500" src="https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif" />
 
 
 **Talking about Personal Stuffs:**
