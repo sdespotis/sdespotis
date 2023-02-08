@@ -23,7 +23,6 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 - 🔥🔥 Check out my latest project [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
 
 
-<img align="right" alt="GIF" height="380"  width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif" />
 
 ***
 
