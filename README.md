@@ -23,8 +23,19 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 - 🔥🔥 Check out my latest project [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
 
 
-<img align="right" alt="GIF" height="380"  width="500" src="https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif" />
+<img align="right" alt="GIF" height="380"  width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif" />
 
+***
+
+**Studies**
+<br />
+<img align="left" alt="GIF" height="110"  width="280" src="https://i.ibb.co/QmhRKm2/90.png" /><img align="left" alt="GIF" height="110"  width="180" src="https://i.ibb.co/S6DN0Rv/9090.jpg" /><br />
+
+<br />
+<br />
+<br />
+
+***
 
 **Talking about Personal Stuffs:**
 
@@ -32,9 +43,7 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📝[Data-analyst.gr](Soon new portfolio link)
 
-**Studies**
-- Master of Science in BA
-- Bachelor in Economic Sciences  @ UOA
+
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -42,4 +51,3 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 & more
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sdespotis&show_icons=true&hide_border=true)
