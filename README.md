@@ -1,6 +1,11 @@
+
+<img align="center" alt="GIF" height="300"  width="900" src="https://miro.medium.com/max/1400/1*WCKtPPTSgqh1yIP3s-5cSw.jpeg" /><br />
+
+
 ### Hello World 👋 It's [Spyros!](https://www.linkedin.com/in/spyros-despotis)
 
 <br/>
+
 
 
 <a href="https://www.linkedin.com/in/spyros-despotis">
@@ -19,9 +24,8 @@
 Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Business Analytics and have practical experience in the e-commerce sector. This unique combination has given me a strong understanding of data analysis and business strategy, allowing me to provide data-driven solutions that drive growth and improve operations in the e-commerce industry. The benefits of this include the ability to analyze data, identify trends and patterns.
 
 
-- ⚡⚡ Check out all my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
+- ⚡⚡ Check out all my recent work in Business Analytics [Master-Projects](https://github.com/sdespotis/Master-Projects)
 - 🔥🔥 Check out my latest project [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
-
 
 
 ***
