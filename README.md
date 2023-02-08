@@ -28,9 +28,8 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Busi
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently at Skroutz SA.
+- 🔭 I am currently working at Skroutz as a Content Development Specialist.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Data-analyst.gr](Soon new portfolio link)
 
 **Studies**
