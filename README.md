@@ -19,10 +19,11 @@
 
 <br />
 
-Hi, I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusiast. Apart from that I love getting involved in Website Development and Problem Solving.❤✌
+Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Business Analytics and have practical experience in the e-commerce sector. This unique combination has given me a strong understanding of data analysis and business strategy, allowing me to provide data-driven solutions that drive growth and improve operations in the e-commerce industry. The benefits of this include the ability to analyze data, identify trends and patterns.
 
-- 🔥🔥 Check out my Machine Learning work [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
+
 - ⚡⚡ Check out all my recent work [Master-Projects](https://github.com/sdespotis/Master-Projects)
+- 🔥🔥 Check out my latest project [Shop The Look Project](https://github.com/sdespotis/fashion_product_recommendation_engine)
 
 
 <img align="right" alt="GIF" height="380"  width="500" src="https://inspgr.id/app/uploads/2018/01/motion-nikolay-ivanov-02.gif" />
@@ -31,7 +32,6 @@ Hi, I'm Spyros Despotis 🙌, an E-commerce Coordinator and Data Science Enthusi
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently at Skroutz SA.
-- 🌱 I’m currently learning Machine Learning tools.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Data-analyst.gr](Soon new portfolio link)
