@@ -21,7 +21,7 @@
 
 <br />
 
-Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Business Analytics and have practical experience in the e-commerce sector. This unique combination has given me a strong understanding of data analysis and business strategy, allowing me to provide data-driven solutions that drive growth and improve operations in the e-commerce industry. The benefits of this include the ability to analyze data, identify trends and patterns.
+Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Analytics and have practical experience in the e-commerce sector. This unique combination has given me a strong understanding of data analysis and business strategy, allowing me to provide data-driven solutions that drive growth and improve operations in the e-commerce industry. The benefits of this include the ability to analyze data, identify trends and patterns.
 
 
 - ⚡⚡ Check out all my recent work in Business Analytics [Master-Projects](https://github.com/sdespotis/Master-Projects)
