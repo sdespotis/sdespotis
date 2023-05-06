@@ -42,7 +42,7 @@ Hi, I'm Spyros Despotis 🙌. I am currently finishing a Master's degree in Anal
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I am currently working at Skroutz as a Content Development Specialist.
+- 🔭 I am currently working as a Fintech Data Analyst.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📝[Data-analyst.gr](Soon new portfolio link)
 
